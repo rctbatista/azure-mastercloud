@@ -6,6 +6,7 @@
 
  - [Comparativo](https://comparecloud.in/)
  - [Portal Azure](https://portal.azure.com/#home)
+ - [DONTpad](https://dontpad.com/turma2-trilha1)
 
 ## AZ-104
 
@@ -36,5 +37,6 @@
  - Para resgatar um código promocional, visite www.microsoftazurepass.com
  
 
-Passo-a-passo em: Redemption Process Guide - Microsoft Azure Pass
-https://www.microsoftazurepass.com/
+Passo-a-passo: [Redemption Process Guide - Microsoft Azure Pass](https://www.microsoftazurepass.com/)
+
+Consulta de saldo: [Balance](https://www.microsoftazuresponsorships.com/Balance)
