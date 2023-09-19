@@ -48,8 +48,6 @@ Passo-a-passo: [Redemption Process Guide - Microsoft Azure Pass](https://www.mic
 
 Consulta de saldo: [Balance](https://www.microsoftazuresponsorships.com/Balance)
 
-## 🚀 Sobre mim
+## 🚀 Contribuidores
 
-Me chamo Rafael e sou apaixonado pela área de tecnologia e desenvolvimento de sistemas, na qual atuo há mais de 10 anos, criando e mantendo sistemas bancários escaláveis e resilientes com foco em Java em ambientes de nuvem.
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rctbatista)
+ - Rafael Teodoro (Autor) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rctbatista)
