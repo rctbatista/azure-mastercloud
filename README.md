@@ -2,7 +2,7 @@
 
 Estamos iniciando um curso completo sobre computação em nuvem, dividido em 3 fases:
  - Trilha 1: Arquitetura de solução & Infra
- - Trilha 2: Apps & Desenvolvimento
+ - Trilha 2: Desenvolvimento e DevOps
  - Trilha 3: Dados & Analytics
 
  Este material tem como objetivo registrar todo o andamento do curso, bem como servir de apoio para o estudo, através de anotações, compartilhamento de conteúdos, exercícios e apresentações utilizadas durante o período.
