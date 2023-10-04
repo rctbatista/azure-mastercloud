@@ -22,6 +22,7 @@ Estamos iniciando um curso completo sobre computação em nuvem, dividido em 3 f
  [Comparativo entre Cloud Service Providers](https://comparecloud.in/)
  - [Portal Azure](https://portal.azure.com/#home)
  - [DONTpad - Anotações colaborativas do curso](https://dontpad.com/turma2-trilha1)
+ - [Mapa mental](https://app.mindmapmaker.org/#m:new-import-file)
 
 ### Certificações Azure
 
