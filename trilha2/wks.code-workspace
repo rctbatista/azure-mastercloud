@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "cs-rctbatista-gmail-com-1003200237d3f91d",
+			"uri": "azurestorage:/cs-rctbatista-gmail-com-1003200237d3f91d?resourceId=/subscriptions/e46613fe-5856-4350-8581-9ca34101fd09/resourceGroups/cloud-shell-storage-eastus/providers/Microsoft.Storage/storageAccounts/cs21003200237d3f91d&name=cs-rctbatista-gmail-com-1003200237d3f91d"
+		}
+	],
+	"settings": {}
+}
